@@ -1,0 +1,513 @@
+idLocalizacao;Pais;Distrito;Concelho
+1;Portugal;Aveiro;Castelo de Paiva
+2;Portugal;Coimbra;GÃ³is
+3;Portugal;Porto;PaÃ§os de Ferreira
+4;Portugal;Braga;Vila Nova de FamalicÃ£o
+5;;;
+6;NÃ£o;;
+7;Portugal;Porto;Felgueiras
+8;Portugal;Aveiro;Castelo de Paiva | Portugal
+9;Portugal;Braga;GuimarÃ£es
+10;Portugal;Leiria;Leiria
+11;Portugal;Vila Real;Vila Real
+12;Portugal;Braga;Barcelos
+13;Portugal;Vila Real;Montalegre
+14;Portugal;Vila Real;AlijÃ³
+15;Portugal;Viseu;Viseu
+16;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;
+17;Portugal;Lisboa;Oeiras
+18;Portugal;Viseu;Resende
+19;Portugal;Viseu;Vouzela
+20;Portugal;RegiÃ£o AutÃ³noma da Madeira;
+21;Portugal;Porto;Vila Nova de Gaia
+22;Portugal;;
+23;Portugal;Lisboa;Lisboa
+24;Portugal;Lisboa;Mafra
+25;Portugal;Portalegre;Alter do ChÃ£o
+26;Portugal;Porto;Porto
+27;Portugal;Porto;Gondomar
+28;Portugal;Lisboa;Torres Vedras
+29;Portugal;Leiria;Marinha Grande
+30;Portugal;Braga;Celorico de Basto
+31;Portugal;Viana do Castelo;Viana do Castelo
+32;CP 2021/33 Acordo Quadro para fornecimento de Cardioversores Desfibrilhadores ImplantÃ¡veis e Pacemakers na Ã¡rea da SaÃºde;;
+33;Portugal;Ãvora;Arraiolos
+34;Portugal;Lisboa;Sintra
+35;Portugal;Braganca;Freixo Espada a Cinta
+36;Portugal;Faro;LoulÃ©
+37;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Ribeira Grande
+38;Portugal;Braga;Fafe
+39;Portugal;Aveiro;Santa Maria da Feira
+40;Portugal;Viseu;SÃ£o JoÃ£o da Pesqueira
+41;Portugal;Porto;Paredes
+42;Portugal;Portalegre;Nisa
+43;Portugal;SantarÃ©m;Abrantes
+44;Portugal;Porto;BaiÃ£o
+45;Portugal;Leiria;Pombal
+46;Portugal;Braga;Esposende
+47;Portugal;SantarÃ©m;SantarÃ©m
+48;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Calheta | Portugal
+49;Portugal;Faro;Lagoa
+50;Portugal;Porto;Matosinhos
+51;Portugal;Coimbra;LousÃ£
+52;Portugal;SantarÃ©m;Almeirim
+53;Portugal;Castelo Branco;CovilhÃ£
+54;Portugal;SetÃºbal;Montijo
+55;Portugal;Coimbra;Coimbra
+56;Portugal;RegiÃ£o AutÃ³noma da Madeira;Santa Cruz
+57;Portugal;Faro;Aljezur
+58;Portugal;Portalegre;
+59;Portugal;SetÃºbal;Almada
+60;Portugal;Lisboa;Amadora
+61;Portugal;Portalegre;Portalegre
+62;Portugal;Coimbra;Penacova
+63;Portugal;Beja;Beja
+64;Portugal;Braganca;Freixo Espada a Cinta | Portugal
+65;Portugal;Faro;Faro
+66;Portugal;Castelo Branco;CovilhÃ£ | Portugal
+67;Portugal;Aveiro;Arouca
+68;Portugal;Aveiro;Espinho
+69;Portugal;Viseu;Tondela
+70;Portugal;RegiÃ£o AutÃ³noma da Madeira;Santana
+71;Portugal;Beja;Alvito
+72;Portugal;Ãvora;Ãvora
+73;Portugal;Aveiro;Ovar
+74;Portugal;Coimbra;Coimbra | Portugal
+75;Portugal;Viseu;SÃ£o Pedro do Sul
+76;Portugal;Lisboa;Loures
+77;Portugal;Viseu;Oliveira de Frades
+78;Portugal;Lisboa;Odivelas
+79;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Corvo
+80;Portugal;RegiÃ£o AutÃ³noma da Madeira;Calheta
+81;Portugal;Faro;Castro Marim
+82;Portugal;Faro;PortimÃ£o | Portugal
+83;Portugal;Porto;Marco de Canaveses
+84;Portugal;Braganca;
+85;Portugal;Faro;Silves
+86;Portugal;Vila Real;Boticas
+87;Portugal;Lisboa;Cadaval
+88;Portugal;Distrito nÃ£o determinado;Concelho nÃ£o determinado
+89;Portugal;Viseu;Sernancelhe
+90;Portugal;Vila Real;
+91;Portugal;Castelo Branco;ProenÃ§a-a-Nova
+92;Portugal;SetÃºbal;Sesimbra
+93;Portugal;SetÃºbal;SetÃºbal
+94;Portugal;Beja;Aljustrel | Portugal
+95;Portugal;Lisboa;Cascais
+96;Portugal | Portugal;SantarÃ©m;Vila Nova da Barquinha
+97;Portugal;SantarÃ©m;Rio Maior
+98;Portugal;Leiria;Caldas da Rainha | Portugal
+99;Portugal;Portugal Continental;
+100;Portugal;Ãvora;Montemor-o-Novo
+101;Portugal;Beja;Aljustrel
+102;Portugal;Guarda;Pinhel
+103;Portugal;Guarda;Fig. Castelo Rodrigo
+104;Portugal;SetÃºbal;Seixal
+105;Portugal;Coimbra;Figueira da Foz
+106;Portugal;Vila Real;Sta Marta de PenaguiÃ£o
+107;Portugal;Coimbra;TÃ¡bua
+108;Portugal;Coimbra;Vila Nova de Poiares
+109;Portugal;Porto;Trofa
+110;Portugal;SetÃºbal;Santiago do CacÃ©m
+111;Portugal;Guarda;Sabugal
+112;Portugal;Braga;Braga
+113;Portugal;Lisboa;Alenquer
+114;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Praia da VitÃ³ria
+115;Portugal;Aveiro;Aveiro
+116;Portugal;Braga;Vila Verde
+117;Portugal;Viseu;Nelas
+118;Portugal;SetÃºbal;Sines
+119;Portugal;SetÃºbal;
+120;Portugal;Braga;Barcelos | Portugal
+121;Portugal;Coimbra;Arganil
+122;Portugal;Guarda;Meda
+123;Portugal;Aveiro;Oliveira do Bairro
+124;Portugal;Faro;
+125;Portugal;Coimbra;Oliveira do Hospital
+126;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Lajes das Flores
+127;Portugal;SantarÃ©m;Alcanena
+128;Portugal;SetÃºbal;Grandola
+129;Portugal;SantarÃ©m;Tomar
+130;Portugal;Leiria;NazarÃ©
+131;Portugal;Castelo Branco;
+132;Portugal;Braga;Vieira do Minho
+133;Portugal;Guarda;Seia
+134;Portugal;Castelo Branco;FundÃ£o
+135;Portugal;Coimbra;Penela
+136;Portugal;RegiÃ£o AutÃ³noma da Madeira;Funchal
+137;Portugal;Aveiro;SÃ£o JoÃ£o da Madeira
+138;Portugal;Vila Real;MurÃ§a
+139;Portugal;Faro;Monchique
+140;Portugal;Aveiro;Mealhada
+141;Portugal;Porto;Santo Tirso
+142;Portugal;Aveiro;Sever do Vouga
+143;Portugal;Castelo Branco;Vila de Rei
+144;Portugal;Castelo Branco;Castelo Branco
+145;Portugal;Faro;OlhÃ£o
+146;Portugal;RegiÃ£o AutÃ³noma da Madeira;CÃ¢mara de Lobos
+147;Portugal;RegiÃ£o AutÃ³noma da Madeira;Machico
+148;Portugal;Braga;GuimarÃ£es | Portugal
+149;Portugal;SetÃºbal;Alcochete
+150;Portugal;Leiria;AnsiÃ£o
+151;Portugal;Coimbra;Figueira da Foz | Portugal
+152;Portugal;Porto;Penafiel
+153;Portugal;Braganca;Miranda do Douro
+154;Portugal;Viana do Castelo;Arcos de Valdevez
+155;Portugal;Viana do Castelo;Caminha
+156;Portugal;Viseu;Moimenta da Beira
+157;Portugal;Porto;Amarante
+158;Espanha | Portugal;Lisboa;Lisboa
+159;Portugal;Porto;Lousada
+160;Portugal;SantarÃ©m;Coruche
+161;Portugal;Aveiro;Ãlhavo
+162;Portugal;Faro;Vila Real Sto Antonio
+163;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Ponta Delgada
+164;Portugal | Portugal;Viseu;Resende
+165;Portugal;SantarÃ©m;Torres Novas
+166;Portugal;Portalegre;Avis
+167;Portugal;Coimbra;Miranda do Corvo
+168;Portugal;Faro;Alcoutim
+169;Portugal;Guarda;Trancoso
+170;Portugal;Guarda;Guarda
+171;Portugal;Braganca;Vinhais
+172;Portugal;Leiria;AlcobaÃ§a
+173;Portugal;Faro;Vila do Bispo
+174;Portugal;Faro;Albufeira
+175;Portugal;Faro;Albufeira | Portugal
+176;Portugal;Braganca;Macedo de Cavaleiros
+177;Portugal;Coimbra;Mira
+178;Portugal | Portugal;Lisboa;Lisboa
+179;Portugal;Portalegre;Ponte de Sor
+180;Portugal;Lisboa;Sobral de Monte AgraÃ§o
+181;Portugal;RegiÃ£o AutÃ³noma da Madeira;Ponta do Sol
+182;Portugal;Lisboa;Lisboa | Portugal
+183;Portugal;Aveiro;Albergaria-a-Velha
+184;Portugal;SetÃºbal;Palmela
+185;Portugal;Braganca | Portugal;Lisboa
+186;Portugal;Viseu;SÃ¡tÃ£o
+187;Alemanha | FranÃ§a;;
+188;Portugal;Vila Real;Peso da RÃ©gua
+189;Portugal | Portugal;Viseu;Tondela
+190;Portugal;SantarÃ©m;Sardoal
+191;Portugal;Braga;Vizela
+192;Portugal;Braganca;Mirandela
+193;Portugal;Coimbra;Pampilhosa da Serra
+194;Portugal;Coimbra;Montemor-o-Velho
+195;Portugal;Leiria;Bombarral
+196;Portugal;Aveiro;Ãlhavo | Portugal
+197;Portugal;Porto;Porto | Portugal
+198;Espanha | Portugal;Lisboa;
+199;Portugal;Beja;Moura
+200;Portugal;Porto;Vila do Conde
+201;Portugal;Coimbra;
+202;Portugal;Porto;PÃ³voa de Varzim
+203;Portugal;Coimbra;Cantanhede
+204;Portugal;Guarda;Celorico da Beira
+205;Portugal;Viseu;Mangualde
+206;Portugal;SantarÃ©m;
+207;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Lagoa
+208;Portugal;Braganca;BraganÃ§a
+209;Portugal;Leiria;Porto de MÃ³s
+210;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Vila do Porto
+211;Portugal;Viseu;MortÃ¡gua
+212;Portugal;Porto;Maia
+213;Portugal;Aveiro;Aveiro | Portugal
+214;Portugal;Guarda;Aguiar da Beira
+215;Portugal;Aveiro;Arouca | Portugal
+216;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Santa Cruz das Flores
+217;Acordos quadro singulares para a execuÃ§Ã£o de intervenÃ§Ãµes de manutenÃ§Ã£o em Infraestruturas do MunicÃ­pio do Porto;;
+218;Portugal;Viana do Castelo;Arcos de Valdevez | Portugal
+219;Portugal;Viana do Castelo;Ponte da Barca
+220;Portugal;Viana do Castelo;Ponte de Lima
+221;Portugal;Leiria;Batalha
+222;Portugal;Lisboa;
+223;Portugal;Guarda;Vila Nova de Foz Coa
+224;Portugal;SetÃºbal;Barreiro
+225;Portugal;Lisboa;Vila Franca de Xira
+226;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Vila Franca do Campo
+227;Artigo 20.Âº;n.Âº 1;alÃ­nea c) do CÃ³digo dos Contratos PÃºblicos
+228;Portugal;Beja;Odemira
+229;Portugal;Aveiro;Ãgueda
+230;Portugal;Portalegre;Arronches
+231;Portugal;Braganca;Torre de Moncorvo
+232;Portugal;Ãvora;MourÃ£o
+233;Portugal;RegiÃ£o AutÃ³noma da Madeira;Porto Santo
+234;Portugal;Leiria;Ãbidos
+235;Portugal;SantarÃ©m;Ferreira do Zezere
+236;Portugal;Ãvora;Vendas Novas
+237;Portugal;Ãvora;Alandroal
+238;Portugal;Aveiro;Oliveira de Azemeis | Portugal
+239;Portugal;SantarÃ©m;OurÃ©m
+240;Portugal;Porto;Valongo
+241;Portugal;Aveiro;Anadia
+242;Portugal;Braga;
+243;Portugal;Ãvora;Viana do Alentejo
+244;Portugal;Portalegre;Elvas
+245;Portugal;Braganca;Alfandega da FÃ©
+246;Portugal;Leiria;AlvaiÃ¡zere
+247;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Angra do Heroismo
+248;Portugal;Leiria;PedrogÃ£o Grande
+249;Portugal;SantarÃ©m;GolegÃ£
+250;Portugal;Aveiro;Vale de Cambra
+251;Acordo-Quadro para a PrestaÃ§Ã£o de ServiÃ§os e Fornecimento de ConsumÃ­veis de Higiene e Limpeza;;
+252;Portugal;Ãvora;
+253;Portugal;Faro;PortimÃ£o
+254;Portugal;Aveiro;Santa Maria da Feira | Portugal
+255;Portugal;Castelo Branco;Castelo Branco | Portugal
+256;Portugal;Viseu;TabuaÃ§o
+257;Portugal;Viana do Castelo;ValenÃ§a
+258;Portugal;Castelo Branco;Idanha-a-Nova
+259;Portugal;Viana do Castelo;MelgaÃ§o
+260;Portugal;Castelo Branco;Penamacor
+261;Portugal;Braga;Cabeceiras de Basto
+262;Portugal;Beja;MÃ©rtola
+263;Portugal;Viana do Castelo;
+264;Portugal;SantarÃ©m;MaÃ§Ã£o
+265;Portugal;RegiÃ£o AutÃ³noma da Madeira;Ribeira Brava
+266;Portugal;SetÃºbal;AlcÃ¡cer do Sal
+267;Portugal;Braga;Amares
+268;BÃ©lgica;;
+269;Portugal;Guarda;
+270;Portugal;Ãvora;Estremoz
+271;Portugal;Viana do Castelo;Paredes de Coura
+272;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Horta
+273;Portugal;SantarÃ©m;Almeirim | Portugal
+274;Portugal;Braga;Terras de Bouro
+275;Portugal;Viana do Castelo;Vila Nova de Cerveira
+276;Portugal;Beja;Ourique
+277;Portugal;Coimbra;Soure
+278;Portugal;Faro;Tavira
+279;Portugal;Leiria;Caldas da Rainha
+280;Portugal;Aveiro;Ãgueda | Portugal
+281;Portugal;Braganca;Alfandega da FÃ© | Portugal
+282;Portugal;Braga;Vila Nova de FamalicÃ£o | Portugal
+283;Portugal;SantarÃ©m;Benavente
+284;Portugal;Viseu;Carregal do Sal
+285;Portugal;Aveiro;
+286;Portugal;Ãvora;Vila ViÃ§osa
+287;Portugal;Vila Real;Chaves
+288;Portugal;Lisboa | Portugal;Porto
+289;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Velas
+290;Portugal;Vila Real;Ribeira de Pena
+291;Portugal;SantarÃ©m;Salvaterra de Magos
+292;Portugal;Lisboa;Azambuja
+293;Espanha;;
+294;Portugal;Beja;Almodovar
+295;Portugal;Braga;PÃ³voa de Lanhoso
+296;Portugal;Portalegre;Campo Maior
+297;Portugal;Faro;Faro | Portugal
+298;Portugal;SantarÃ©m;Cartaxo
+299;Portugal;Braganca;Vila Flor
+300;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Madalena
+301;Portugal;Viseu;Lamego
+302;Portugal | Portugal;Leiria;Castanheira de Pera
+303;Portugal;Portalegre;Sousel
+304;Portugal;Portalegre;MarvÃ£o
+305;Portugal;Lisboa;Arruda dos Vinhos
+306;Portugal;Beja;Ferreira do Alentejo
+307;Portugal;Beja;Castro Verde
+308;Portugal;Coimbra;Condeixa-a-Nova
+309;Portugal;Guarda;Fornos de Algodres
+310;Portugal;Beja;Vidigueira
+311;Portugal;Aveiro;Oliveira de Azemeis
+312;Portugal;Portalegre;GaviÃ£o
+313;Portugal;SantarÃ©m;Entroncamento
+314;Portugal;RegiÃ£o AutÃ³noma da Madeira;Porto Moniz
+315;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Angra do Heroismo | Portugal
+316;Portugal;Vila Real;ValpaÃ§os
+317;Portugal;Viseu;Tarouca
+318;Portugal;Leiria;Castanheira de Pera
+319;Portugal;Ãvora;Redondo
+320;Portugal;Viana do Castelo;MonÃ§Ã£o
+321;Portugal;SetÃºbal;Seixal | Portugal
+322;Portugal;Leiria | Portugal;Lisboa
+323;Portugal;Portalegre;Crato
+324;Portugal;RegiÃ£o AutÃ³noma da Madeira;SÃ£o Vicente
+325;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Nordeste
+326;Portugal;Viseu;Penedono
+327;Portugal;Viseu;CinfÃ£es
+328;Portugal;Leiria;Peniche
+329;Portugal;Porto;
+330;Portugal;RegiÃ£o AutÃ³noma da Madeira | Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores
+331;Portugal;SetÃºbal;Alcochete | Portugal
+332;Portugal;Vila Real;Vila Pouca de Aguiar
+333;Portugal;Aveiro;Vagos
+334;Portugal;Faro;SÃ£o BrÃ¡s de Alportel
+335;Portugal;Aveiro | Portugal;Coimbra
+336;Portugal;SantarÃ©m;Constancia
+337;Portugal;RegiÃ£o AutÃ³noma da Madeira;Funchal | Portugal
+338;Portugal;Beja;Serpa
+339;Portugal;Braga | Portugal;Porto | Portugal
+340;Portugal;Castelo Branco;Vila Velha de RÃ³dÃ£o
+341;Portugal;Faro;Lagos
+342;Portugal;Braga;Cabeceiras de Basto | Portugal
+343;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Lajes do Pico
+344;Portugal;Castelo Branco;Belmonte
+345;Portugal;Leiria;Leiria | Portugal
+346;Portugal;Aveiro;Estarreja
+347;Portugal;Aveiro | Portugal;Leiria
+348;Portugal;Vila Real;Sabrosa
+349;ArÃ¡bia Saudita;;
+350;Portugal;SetÃºbal;Moita
+351;Portugal;Braganca;Carrazeda de AnsiÃ£es
+352;Portugal;Beja;Barrancos
+353;Alemanha | Ãustria | BÃ©lgica | PaÃ­ses Baixos | SuiÃ§a;;
+354;Portugal | Portugal;Lisboa;Oeiras
+355;AquisiÃ§Ã£o de ServiÃ§os de GeolocalizaÃ§Ã£o de Viaturas para as empresas do Grupo Ãguas de Portugal;;
+356;Portugal;Lisboa;Cascais | Portugal
+357;Portugal;Lisboa;Loures | Portugal
+358;Reino Unido;;
+359;Portugal;Castelo Branco;Belmonte | Portugal
+360;Portugal;Vila Real;Mondim de Basto
+361;Portugal;Vila Real;MesÃ£o Frio
+362;Portugal | Portugal;Viseu;Penalva do Castelo
+363;Portugal;Viseu;Penalva do Castelo
+364;Portugal;Guarda;Manteigas
+365;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Corvo | Portugal
+366;Portugal;SantarÃ©m;Chamusca
+367;Portugal;Braganca;BraganÃ§a | Portugal
+368;Portugal;Ãvora | Portugal;Portalegre
+369;Portugal;Braganca;Vimioso
+370;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;PovoaÃ§Ã£o
+371;Portugal;Leiria;PedrogÃ£o Grande | Portugal
+372;Portugal;Viseu;Armamar
+373;Portugal;Beja;Beja | Portugal
+374;Portugal;Aveiro;SÃ£o JoÃ£o da Madeira | Portugal
+375;Portugal | Portugal;Aveiro;Santa Maria da Feira
+376;Portugal;Beja;
+377;Portugal;Viseu;Castro Daire
+378;Portugal;Braga;Amares | Portugal
+379;Portugal;Vila Real;AlijÃ³ | Portugal
+380;Portugal;Braga;Esposende | Portugal
+381;Portugal;Guarda;Almeida | Portugal
+382;Portugal;Coimbra;Penela | Portugal
+383;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Santa Cruz da Graciosa
+384;Portugal;Ãvora;Portel
+385;Portugal;Leiria;Marinha Grande | Portugal
+386;Portugal;Beja;Odemira | Portugal
+387;Portugal;Braga;Fafe | Portugal
+388;Portugal;Portugal Continental | Portugal;RegiÃ£o AutÃ³noma da Madeira
+389;Portugal;Lisboa;LourinhÃ£
+390;Portugal;Braganca;Mogadouro
+391;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;SÃ£o Roque do Pico
+392;Alemanha | Portugal;Castelo Branco;Idanha-a-Nova
+393;Portugal;Castelo Branco;SertÃ£
+394;Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;Calheta
+395;Portugal;Faro;Lagoa | Portugal
+396;Espanha | Portugal;Vila Real;Vila Real
+397;Portugal | Portugal;SetÃºbal;Almada
+398;Portugal;Viseu;Vila Nova de Paiva
+399;Portugal | Portugal;SetÃºbal;Seixal
+400;Portugal;Castelo Branco;Oleiros
+401;Portugal;Porto;Marco de Canaveses | Portugal
+402;Portugal;Ãvora;Mora
+403;Portugal;Porto;Maia | Portugal
+404;Portugal;Lisboa;Oeiras | Portugal
+405;Portugal;Ãvora;Borba
+406;PanamÃ¡;;
+407;Portugal;Faro;Lagos | Portugal
+408;Portugal | Portugal;Porto;Porto
+409;Portugal | Portugal;Coimbra;LousÃ£
+410;Portugal;Viseu;Santa Comba DÃ£o
+411;Portugal;Porto;Matosinhos | Portugal
+412;Portugal;Ãvora;Arraiolos | Portugal
+413;Portugal;Porto;Gondomar | Portugal
+414;Alemanha;;
+415;Portugal;Braga;Braga | Portugal
+416;Portugal;Leiria;
+417;Portugal;Portalegre;Castelo de Vide
+418;Portugal | Portugal;Coimbra;Arganil
+419;Portugal | Portugal;Ãvora;Ãvora
+420;Portugal;Aveiro | Portugal;Braganca | Portugal
+421;Portugal;Faro;OlhÃ£o | Portugal
+422;Portugal;Distrito nÃ£o determinado;Concelho nÃ£o determinado | Portugal
+423;Portugal;Coimbra | Portugal;Distrito nÃ£o determinado
+424;Portugal;Ãvora;Reguengos de Monsaraz
+425;Portugal;Lisboa;Azambuja | Portugal
+426;Portugal | Portugal;Leiria;Marinha Grande
+427;IndonÃ©sia;;
+428;Portugal;Porto;Amarante | Portugal
+429;Portugal;Ãvora;Borba | Portugal
+430;Portugal;Ãvora;Ãvora | Portugal
+431;Portugal | Portugal;Porto;
+432;Espanha | Portugal;;
+433;PRC_0100/2023_CLG - AquisiÃ§Ã£o de reservatÃ³rios e bacias de retenÃ§Ã£o para a Ãguas do Norte;S.A.;
+434;Portugal;Viseu;Lamego | Portugal
+435;Portugal;Viana do Castelo;MelgaÃ§o | Portugal
+436;Portugal | Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;SÃ£o Roque do Pico
+437;Portugal;Leiria;FigueirÃ³ dos Vinhos
+438;Portugal;Beja;Cuba
+439;Portugal;Coimbra | Portugal;Leiria
+440;Portugal;Braganca;Miranda do Douro | Portugal
+441;Concurso PÃºblico Internacional para a celebraÃ§Ã£o de Acordo-Quadro singular para a RealizaÃ§Ã£o de Obras na Via PÃºblica;;
+442;Portugal;SantarÃ©m;AlpiarÃ§a
+443;Portugal;Beja | Portugal;Ãvora | Portugal
+444;Portugal;Leiria;Ãbidos | Portugal
+445;Portugal;Leiria;NazarÃ© | Portugal
+446;Portugal;SetÃºbal;Santiago do CacÃ©m | Portugal
+447;Portugal;Guarda;Gouveia
+448;Portugal;Faro;Castro Marim | Portugal
+449;Portugal;Porto;Felgueiras | Portugal
+450;Portugal;Aveiro;Anadia | Portugal
+451;Portugal;RegiÃ£o AutÃ³noma da Madeira;Ribeira Brava | Portugal
+452;Portugal;Leiria;AlvaiÃ¡zere | Portugal
+453;Portugal;SantarÃ©m;Vila Nova da Barquinha
+454;Portugal;Faro;Silves | Portugal
+455;Portugal;Beja;Cuba | Portugal
+456;Portugal | Portugal;RegiÃ£o AutÃ³noma da Madeira;Calheta
+457;Portugal;Aveiro;Murtosa
+458;Portugal;Lisboa;Amadora | Portugal
+459;Portugal;Portalegre;Fronteira
+460;Portugal;RegiÃ£o AutÃ³noma da Madeira;CÃ¢mara de Lobos | Portugal
+461;Portugal;Coimbra;GÃ³is | Portugal
+462;Portugal;Lisboa;Alenquer | Portugal
+463;Portugal;Vila Real;MesÃ£o Frio | Portugal
+464;Acordo Quadro para o fornecimento de Papel para FotocÃ³pia e ImpressÃ£o;;
+465;Portugal;Ãvora | Portugal;Ãvora
+466;Portugal | Portugal;Aveiro;
+467;Portugal;Portalegre;Monforte
+468;Portugal;Vila Real;Chaves | Portugal
+469;Portugal;Lisboa | QuÃ©nia;
+470;SuiÃ§a;;
+471;ItÃ¡lia;;
+472;492/2023 - Concurso pÃºblico internacional para formaÃ§Ã£o do acordo quadro de medicamentos anti-infeciosos na Ã¡rea da saÃºde;;
+473;Portugal | Portugal;Distrito nÃ£o determinado;Concelho nÃ£o determinado
+474;Portugal;Porto;Lousada | Portugal
+475;Emiratos Ãrabes Unidos;;
+476;Portugal | Portugal;Braga;PÃ³voa de Lanhoso
+477;Espanha | Portugal;Beja;
+478;Estados Unidos;;
+479;Portugal;Guarda;Aguiar da Beira | Portugal
+480;Portugal;Faro;Tavira | Portugal
+481;Portugal;Portalegre;Alter do ChÃ£o | Portugal
+482;Portugal;Portugal Continental | Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores
+483;Portugal;Portalegre;Elvas | Portugal
+484;Espanha | Portugal;Lisboa;Vila Franca de Xira
+485;PRC_0030/2023_CLG - Acordo Quadro para aquisiÃ§Ã£o de material mecÃ¢nico para a Ãguas do Norte;S.A. (III);
+486;Portugal | Portugal;Faro;Aljezur
+487;Portugal;Viseu | Portugal;Viseu
+488;Portugal;Faro;LoulÃ© | Portugal
+489;BÃ©lgica | Espanha | Portugal;;
+490;Portugal | Portugal;Aveiro;Aveiro | Portugal
+491;Portugal;Viana do Castelo;Caminha | Portugal
+492;Portugal;Guarda;Almeida
+493;Portugal | Portugal;Braganca;BraganÃ§a
+494;BÃ©lgica | Portugal;Lisboa;
+495;BÃ©lgica | Portugal;Porto;
+496;Portugal;RegiÃ£o AutÃ³noma da Madeira;Ponta do Sol | Portugal
+497;CP 2022/19 - Medicamentos antipsicÃ³ticos;anestÃ©sicos e relaxantes musculares;
+498;Portugal;Porto;BaiÃ£o | Portugal
+499;Portugal;Aveiro | Portugal;Braga | Portugal
+500;Portugal;Coimbra;Condeixa-a-Nova | Portugal
+501;Portugal | Portugal;RegiÃ£o AutÃ³noma dos AÃ§ores;
+502;Portugal | Portugal;Faro;Faro
+503;Cabo Verde | Portugal;SantarÃ©m;SantarÃ©m
+504;Hungria;;
+505;Portugal;Coimbra;Oliveira do Hospital | Portugal
+506;Portugal;Coimbra;Soure | Portugal
+507;Portugal | Portugal;Viseu;Mangualde
+508;Portugal;Vila Real;Vila Real | Portugal
+509;Portugal;SantarÃ©m;Entroncamento | Portugal
+510;Portugal;Faro | Portugal;Lisboa
+511;Portugal;Leiria;AlcobaÃ§a | Portugal
+512;Portugal;Vila Real;Peso da RÃ©gua | Portugal

@@ -1,0 +1,521 @@
+idTipoContrato;tipoContrato;tipoprocedimento
+1;AquisiÃ§Ã£o de serviÃ§os;Consulta PrÃ©via
+2;Empreitadas de obras pÃºblicas;Consulta PrÃ©via
+3;AquisiÃ§Ã£o de serviÃ§os;Ajuste Direto Regime Geral
+4;502091835 - AssociaÃ§Ã£o In Loco de IntervenÃ§Ã£o, FormaÃ§Ã£o e Estudos para o Desenvolvimento Local;505111500 - JRJ - ComÃ©rcio de Equipamentos de EscritÃ³rio, Lda
+5;Estima-se uma mÃ©dia de 21 (vinte e um) trabalhadores por ;502091835 - AssociaÃ§Ã£o In Loco de IntervenÃ§Ã£o, FormaÃ§Ã£o e Estudos para o Desenvolvimento Local
+6;AquisiÃ§Ã£o de bens mÃ³veis;Ajuste Direto Regime Geral
+7;AquisiÃ§Ã£o de serviÃ§os;Concurso pÃºblico
+8;LocaÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+9;AquisiÃ§Ã£o de bens mÃ³veis;Ao abrigo de acordo-quadro (art.Âº 259.Âº)
+10;AquisiÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via
+11;AquisiÃ§Ã£o de bens mÃ³veis;Ao abrigo de acordo-quadro (art.Âº 258.Âº)
+12;AquisiÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+13;AquisiÃ§Ã£o de serviÃ§os;Ao abrigo de acordo-quadro (art.Âº 259.Âº)
+14;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, EPE;504223933 - Medtronic
+15;AquisiÃ§Ã£o de serviÃ§os;Ao abrigo de acordo-quadro (art.Âº 258.Âº)
+16;Empreitadas de obras pÃºblicas;Concurso pÃºblico
+17;Empreitadas de obras pÃºblicas;Ajuste Direto Regime Geral
+18;502383887 - Escola Evaristo Nogueira, L.da;"500145415 - RECHEIO - CASH &amp; CARRY, SA"
+19;503720364 - Instituto PolitÃ©cnico de SetÃºbal;506504948 - Ãsistemas - Cons. Sistemas Com. Visual e Mult. Lda 
+20;;
+21;508096707 - Freguesia de Vila Real de Santo AntÃ³nio;RGPD - Valter Guerreiro Peleja
+22;506625419 - MunicÃ­pio de Almeida;504870238 - Save 21 - Assistencia e ManutenÃ§Ã£o de Equipamentos TÃ©rmicos, Lda
+23;ConcessÃ£o de serviÃ§os pÃºblicos;Ajuste Direto Regime Geral
+24;501373357 - IAPMEI - AgÃªncia para a Competitividade e InovaÃ§Ã£o, I. P.;513194061 - One Engenharia lda
+25;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);508569974 - COPS Companhia Operacional de SeguranÃ§a, Unipessoal Lda.
+26;AquisiÃ§Ã£o de bens mÃ³veis;Consulta prÃ©via ao abrigo do artigo 7Âº da Lei n.Âº 30/2021, de 21.05
+27;508894034 - E. T. P. M. M. - Escola TÃ©cnica e Profissional MarquÃªs de Marialva, S. A.;500271518 - Sogenave, S.A. 
+28;504534440 - Soenprol - Sociedade de Ensino Profissional, L.da;500271518 - Sogenave, S.A. 
+29;AquisiÃ§Ã£o de serviÃ§os;Consulta PrÃ©via Simplificada
+30;AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis;Ajuste Direto Regime Geral
+31;506852032 - MunicÃ­pio de Sernancelhe;RGPD - Carla Sofia Ribeiro de Jesus
+32;504695037 - SODENFOR - Sociedade Difusora de Ensino da Figueira da Foz, L.da;"513867740 - Carlos GonÃ§alves &amp; Filho, Lda"
+33;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Concurso pÃºblico
+34;504695037 - SODENFOR - Sociedade Difusora de Ensino da Figueira da Foz, L.da;500271518 - Sogenave, S.A. 
+35;Empreitadas de obras pÃºblicas;Consulta PrÃ©via Simplificada
+36;505506149 - ETPR - Escola TÃ©cnica e Profissional do Ribatejo, S. A.;500271518 - Sogenave, S.A. 
+37;AquisiÃ§Ã£o de serviÃ§os;Concurso limitado por prÃ©via qualificaÃ§Ã£o
+38;LocaÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via
+39;513606084 - Ãguas do Norte, S. A.;
+40;502327669 - CooptÃ©cnica - Gustave Eiffel, Cooperativa de Ensino e FormaÃ§Ã£o TÃ©cnico Profissional, C. R. L.;504315650 - Globlec - ComÃ©rcio de Materiais ElÃ©ctricos, Lda.
+41;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;514879300 - MREDIS II, LDA
+42;507104676 - Freguesia de Joane;RGPD - Filomena GuimarÃ£es Ferreira
+43;500122270 - FundaÃ§Ã£o Raquel e Martin Sain;501689168 - LusitÃ¢nia Companhia de Seguros, S.A.
+44;505111667 - Urbe - Consultores Associados, L.da;506093190 - Penasegur - MediaÃ§Ã£o de Seguros, Lda
+45;507223500 - Freguesia de Moreira de CÃ³negos;RGPD - BÃ¡rbara Ribeiro da Silva
+46;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Ajuste Direto Regime Geral
+47;Empreitadas de obras pÃºblicas;Ao abrigo de acordo-quadro (art.Âº 258.Âº)
+48;509822940 - Centro Hospitalar Tondela-Viseu, E. P. E.;501445226 - TK Elevadores Portugal, Unipessoal, Lda.
+49;504537784 - BRAGAHABIT - Empresa Municipal de HabitaÃ§Ã£o de Braga, E. M.;510721893 - Thesignoftime - Tecnologias de InformaÃ§Ã£o, Lda
+50;600081770 - Agrupamento de Escolas AntÃ³nio Rodrigues Sampaio, Esposende;
+51;513606084 - Ãguas do Norte, S. A.;517105659 - VNETO - SoluÃ§Ãµes, Lda
+52;AquisiÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via Simplificada
+53;508894034 - E. T. P. M. M. - Escola TÃ©cnica e Profissional MarquÃªs de Marialva, S. A.;500087210 - PORTRAL - COMÃRCIO E INDÃSTRIA DE CARNES, LDA.
+54;512065837 - MunicÃ­pio do Corvo;"509238564 - MSAF- Morais Sarmento, Almeida Farinha &amp; Associados. Sociedade de Advogados SP, RL"
+55;510361242 - INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J;509875874 - Mindtrooper, Lda.
+56;509521584 - NazarÃ© Forma - Ensino, FormaÃ§Ã£o e CertificaÃ§Ã£o Profissional, L.da;501995609 - Frutas Figueiredo - ComÃ©rcio HortofrutÃ­colas, Lda
+57;513606084 - Ãguas do Norte, S. A.;505044897 - HIDMA-HidrÃ¡ulica e AutomaÃ§Ã£o, SA
+58;505506149 - ETPR - Escola TÃ©cnica e Profissional do Ribatejo, S. A.;501995609 - Frutas Figueiredo - ComÃ©rcio HortofrutÃ­colas, Lda
+59;504547313 - Escola Profissional da Mealhada, L.da;"513867740 - Carlos GonÃ§alves &amp; Filho, Lda"
+60;504731475 - EsproMinho - Escola Profissional do Minho, L.da;500271518 - Sogenave, S.A. 
+61;504503219 - ProSena - Empresa Promotora de ServiÃ§os de Ensino, S. A.;500271518 - Sogenave, S.A. 
+62;502383887 - Escola Evaristo Nogueira, L.da;500271518 - Sogenave, S.A. 
+63;506190412 - Externato Dom Fuas Roupinho, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+64;510361242 - INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J;503003913 - Central Projectos, Lda.
+65;504807706 - IB - AgÃªncia para a DinamizaÃ§Ã£o EconÃ³mica, E. M.;508352614 - Aroma 24, PrestaÃ§Ã£o de ServiÃ§os de Limpeza, Lda
+66;513606084 - Ãguas do Norte, S. A.;516951351 - Lean Digital, lda
+67;501280740 - MunicÃ­pio de OurÃ©m;RGPD - GonÃ§alo JosÃ© Lopes Pereira Cardoso
+68;AquisiÃ§Ã£o de serviÃ§os;Setores especiais â isenÃ§Ã£o parte II
+69;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;502345144 - Aplitinta-ProteÃ§Ã£o e Revestimentos de BetÃ£o, Lda
+70;506415082 - MunicÃ­pio de Coimbra;502611057 - Interlimpe- Facility Services S.A
+71;506625419 - MunicÃ­pio de Almeida;514386428 - Spring Influence-ProduÃ§Ãµes Unipessoal Lda
+72;AquisiÃ§Ã£o de serviÃ§os;ContrataÃ§Ã£o excluÃ­da II
+73;501460888 - Instituto da HabitaÃ§Ã£o e da ReabilitaÃ§Ã£o Urbana, I. P.;"505205467 - J. Honorio &amp; Nelson - ConstruÃ§Ãµes e GÃ¡s, Lda."
+74;505037700 - Domus Social, EM;505668149 - Jotunild - Unipessoal, Lda.
+75;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;501351167 - Rentokil Initial Portugal, Lda
+76;;QUANT. TOTAL
+77;KG;20
+78;KG;80
+79;KG;30
+80;KG;130
+81;KG;16
+82;KG;50
+83;KG;70
+84;KG;10
+85;KG;1
+86;;QUANT. TOTAL.
+87;KG;250
+88;KG;700
+89;KG;15
+90;KG;9
+91;KG;300
+92;KG;60
+93;KG;180
+94;MOLHO;30
+95;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;RGPD - CÃ¡tia Filipa Martins Coelho
+96;KG;2
+97;LT;1
+98;UNI;12
+99;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;"500274029 - Soprei Cash &amp; Carry, CRL"
+100;LT;200
+101;KG;25
+102;LT;100
+103;UNI;600
+104;UNI;500
+105;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;502976764 - Ãptica do HeroÃ­smo
+106;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;504459180 - ROXALL-ARISTEGUI PORTUGAL, S.A
+107;507564243 - Freguesia de Corroios;502620358 - PRADIL - TINTAS E VERNIZES, LDA
+108;LocaÃ§Ã£o de bens mÃ³veis;Ajuste Direto Regime Geral
+109;507718666 - CMPEAE - Empresa de Ãguas e Energia do MunicÃ­pio do Porto, E. M.;502972165 - Audinova - ServiÃ§os Audiovisuais, Lda.
+110;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Ao abrigo de acordo-quadro (art.Âº 259.Âº)
+111;501305734 - CÃ¢mara Municipal de Alenquer;500246505 - Servilimpe - Limpezas TÃ©cnicas Mecanizadas, SA
+112;502327669 - CooptÃ©cnica - Gustave Eiffel, Cooperativa de Ensino e FormaÃ§Ã£o TÃ©cnico Profissional, C. R. L.;"514742887 - Manuel Pastor Costa &amp; Martha, Lda"
+113;513606084 - Ãguas do Norte, S. A.;513381910 - Coeficiente Constante Lda
+114;KG;340
+115;KG;500
+116;;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da
+117;UNI;240
+118;UNI;10
+119;UNI;100
+120;UNI;36
+121;KG;6
+122;UNI;300
+123;UNI;24
+124;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;513714405 - Mirandis
+125;LT;20
+126;UNI;3
+127;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Consulta PrÃ©via
+128;QUANTIDADES;
+129;UNIDADE;TOTAL
+130;LT;40
+131;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;504512218 - Higimarto, Industria e Comercio de Produtos de Higiene e Limpeza, Lda
+132;600084817 - DireÃ§Ã£o-Geral da AdministraÃ§Ã£o Escolar;514438193 - Scorpion Record, Lda
+133;501082174 - CÃ¡ritas Diocesana de Coimbra;502544180 - VODAFONE PORTUGAL - ComunicaÃ§Ãµes Pessoais, S.A.
+134;501306099 - MunicÃ­pio do Porto;503935107 - Lusa - AgÃªncia de NotÃ­cias de Portugal, S. A.
+135;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;516246607 - NOVAIXOS LDA
+136;Empreitadas de obras pÃºblicas;Concurso pÃºblico simplificado
+137;506613461 - MunicÃ­pio de Vila ViÃ§osa;RGPD - SÃ³nia Maria Pinto Serrano Pimenta
+138;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;504445960 - MBA PORTUGAL, S.A.
+139;500051062 - MunicÃ­pio de Sintra;505606259 - GRAVOTAÃA, LDA.
+140;LocaÃ§Ã£o de bens mÃ³veis;Setores especiais â isenÃ§Ã£o parte II
+141;Empreitadas de obras pÃºblicas;Concurso limitado por prÃ©via qualificaÃ§Ã£o
+142;506788490 - MunicÃ­pio de Alcochete;508306000 - Lubrifuel Lda
+143;600087077 - DireÃ§Ã£o Regional das Obras PÃºblicas e Transportes Terrestres;512017182 - AlmÃ©rio e Cordeiro CÂª. Lda
+144;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);506468801 - Terras Serranas - Desenvolvimento TurÃ­stico e ImobiliÃ¡rio, S. A.
+145;501863940 - ASSOL - AssociaÃ§Ã£o de Solidariedade Social de LafÃµes;500334625 - CONSIPEL - ConstruÃ§Ãµes SimÃµes Pereira, Lda.
+146;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);504230280 - ZECAFIL - PROTECÃÃO AMBIENTAL, LDA.
+147;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;506226352 - Artifofo - Equipamentos Hospitalares e FarmacÃªuticos, Lda
+148;AquisiÃ§Ã£o de serviÃ§os | Empreitadas de obras pÃºblicas;Ajuste Direto Regime Geral
+149;AquisiÃ§Ã£o de serviÃ§os | Sociedade;Ajuste Direto Regime Geral
+150;506838730 - AssociaÃ§Ã£o Porto Digital;501968326 - Incentea - Tecnologia de GestÃ£o, S.A:
+151;ConcessÃ£o de serviÃ§os pÃºblicos;Concurso pÃºblico
+152;505246473 - STCP ServiÃ§os - Transportes Urbanos, Consultoria e ParticipaÃ§Ãµes, Unipessoal, Lda.;507655745 - Electroinstal
+153;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;500853975 - Delta CafÃ©s
+154;504497782 - Ambifaro - GestÃ£o de Equipamentos Municipais, E. M.;RGPD - Ricardo Prelhaz Fonseca
+155;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;502109920 - Beira Sumos, Lda
+156;501138960 - MunicÃ­pio de Valongo;500243719 - SECURITAS - SERVIÃOS E TECNOLOGIA DE SEGURANÃA, SA
+157;501275380 - MunicÃ­pio de Condeixa-a-Nova;514827491 - Pixelview - InformÃ¡tica e ServiÃ§os, Lda
+158;AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+159;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;501075666 - Humberto PoÃ§as, S.A.
+160;501110453 - AECRM-AssociaÃ§Ã£o Empresarial Concelho Rio Maior;516140523 - Lobo, Vasques e Associados - Sociedade de Advogados, SP
+161;508887780 - Comunidade Intermunicipal do Ave;"510747345 - CRUZ, AMARAL &amp; ASSOCIADOS SROC, LDA"
+162;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;500042772 - BASTOS VIEGAS, SA
+163;502173653 - MunicÃ­pio de Torres Vedras;513134360 - Vitor Nuno Ramos, Soc. Unipessoal Lda
+164;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Ao abrigo de acordo-quadro (art.Âº 258.Âº)
+165;503671320 - Metro Mondego, S. A.;508439337 - Aveirovertice Lda
+166;600021610 - Estado-Maior do ExÃ©rcito;RGPD - Isabel Maria Carneiro Da Silva Pimenta
+167;600086631 - Instituto de GestÃ£o Financeira da EducaÃ§Ã£o, I. P.;503567582 - Contactus, S.A.
+168;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, E. P. E.;504059521 - OhmtÃ©cnica - RepresentaÃ§Ãµes de Marcas, Lda
+169;AquisiÃ§Ã£o de bens mÃ³veis;Concurso limitado por prÃ©via qualificaÃ§Ã£o
+170;513606084 - Ãguas do Norte, S. A.;503591831 - Cegelec InstalaÃ§Ãµes e Sistemas de AutomaÃ§Ã£o. Lda.
+171;511239440 - MunicÃ­pio de Machico;511205490 - MAVIPP, LDA
+172;505600005 - Ãguas de Santo AndrÃ©, S. A.;502544180 - VODAFONE PORTUGAL - ComunicaÃ§Ãµes Pessoais, S.A.
+173;AquisiÃ§Ã£o de bens mÃ³veis;Setores especiais â isenÃ§Ã£o parte II
+174;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;500618909 - Progresso e Vida Empresa TipogrÃ¡fica e JornalÃ­stica Lda
+175;600008878 - Guarda Nacional Republicana;507632141 - RK Pneus, Lda.
+176;506741400 - MunicÃ­pio de PÃ³voa de Varzim;510345816 - SANIPOWER S.A.
+177;506642798 - CÃ¢mara Municipal de Vila Velha de RÃ³dÃ£o;510823165 - Izifun, Lda.
+178;505932512 - MunicÃ­pio de Aljezur;502159162 - TERMIBÃRICA GESTÃO DE ENERGIA LDA
+179;506632920 - MunicÃ­pio da PÃ³voa de Lanhoso;504758950 - ANTÃNIO A.C.MARTINS, ARQUITECTOS ASSOCIADOS, LDA
+180;505255391 - AMBILITAL - Investimentos Ambientais no Alentejo, E. I. M.;502777966 - ESTUDOTECNICO - CONSULTADORIA TECNICA, ESTUDOS E PROJETOS ELETRICOS, LDA
+181;ROLO;480
+182;ROLO;80
+183;ROLO;20
+184;509179436 - FundaÃ§Ã£o Mata do BuÃ§aco, F. P.;504469630 - FUTURFORMA, FormaÃ§Ã£o, GestÃ£o e InformaÃ§Ã£o, Lda.
+185;503005843 - SEFO - Sociedade de EducaÃ§Ã£o e FormaÃ§Ã£o do Oeste, L.da;503851086 - Sepitra - ComÃ©rcio de MÃ¡quinas e Equipamentos, Ld.Âª
+186;LocaÃ§Ã£o de bens mÃ³veis;Ao abrigo de acordo-quadro (art.Âº 258.Âº)
+187;506659682 - MunicÃ­pio de Vieira do Minho;"502751070 - Ferreira &amp; Padilha, Lda."
+188;506613461 - MunicÃ­pio de Vila ViÃ§osa;RGPD - Francisco Miguel Calado Sande
+189;506613461 - MunicÃ­pio de Vila ViÃ§osa;RGPD - JoÃ£o Manuel Solda Batanete
+190;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;500900469 - ServiÃ§o de UtilizaÃ§Ã£o Comum dos Hospitais
+191;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;500039720 - AVIQUIMICA- IMPORTAÃÃO E MANUFACTURAS, LDA
+192;500900469 - ServiÃ§o de UtilizaÃ§Ã£o Comum dos Hospitais;501086110 - WERFEN PORTUGAL, LDA.
+193;501181857 - MunicÃ­pio de Sardoal;508900123 - Stratomount, Lda
+194;500051062 - MunicÃ­pio de Sintra;505634848 - Flora Garden - Projectos de Silvicultura e Jardinagem
+195;506215547 - MunicÃ­pio de BraganÃ§a;503985368 - LCQA-LABORATORIO DE CONTROLO QUALIDADE ALIMENTAR LDA
+196;505037700 - Domus Social, EM;508622069 - OPENLINE FACILITY SERVICES, S.A.
+197;500965099 - Ordem dos Advogados;504551221 - Link Consulting - Tecnologias de InformaÃ§Ã£o, S.A.
+198;600082490 - Autoridade Nacional de EmergÃªncia e ProteÃ§Ã£o Civil;510401040 - Uniksystem, Lda.
+199;506809307 - MunicÃ­pio de Aguiar da Beira;"514886226 - Salvador &amp; Matos, Lda"
+200;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;503322520 - Vertiv Portugal, Lda.
+201;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);501276343 - AntÃ³nio Gomes Tecedeiro, Lda
+202;506625419 - MunicÃ­pio de Almeida;507072855 - PARMALAT PORTUGAL PRODUTOS ALIMENTARES LDA
+203;501306099 - MunicÃ­pio do Porto;501803661 - ESTIN-ESTUDO E INFORMATICA LDA
+204;501306099 - MunicÃ­pio do Porto;500048894 - C.A.M. - CamiÃµes,AutomÃ³veis e Motores,SA
+205;506005429 - Centro Social e Paroquial de Vilarinho;500067120 - COMBITUR - CONSTRUCOES IMOBILIARIAS E TURISTICAS, S.A
+206;510361242 - INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J;513770267 - TUU Building Design Management, Lda
+207;Empreitadas de obras pÃºblicas;Setores especiais â isenÃ§Ã£o parte II
+208;513606084 - Ãguas do Norte, S. A.;508013801 - AMBITREVO, SOLUÃÃES AGRÃCOLAS E AMBIENTAIS, LDA
+209;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;"507992032 - Manuel Carlos da Silva Pereira &amp; Filhos, Lda"
+210;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;500271518 - Sogenave, S.A. 
+211;500984492 - Ordem dos MÃ©dicos;500941084 - Horto do Campo Grande, SA
+212;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;500970602 - Renault Portugal, S.A.
+213;ConcessÃ£o de serviÃ§os pÃºblicos;Consulta PrÃ©via
+214;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;501886850 - Padaria do MontalvÃ£o, Lda
+215;503005843 - SEFO - Sociedade de EducaÃ§Ã£o e FormaÃ§Ã£o do Oeste, L.da;RGPD - Raquel Alexandra Calado Garrido Santos
+216;503005843 - SEFO - Sociedade de EducaÃ§Ã£o e FormaÃ§Ã£o do Oeste, L.da;507669452 - Euroyouth Portugal, Unipessoal, Lda.
+217;517392259 - Unidade Local de SaÃºde de Santo AntÃ³nio, E. P. E.;515757861 - Bevotech - Spacebold, Lda
+218;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;"500145415 - RECHEIO - CASH &amp; CARRY, SA"
+219;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;509717853 - HEMOVISION, LDA
+220;504746383 - Amadora Inovation, E. M., Unipessoal, L.da;500293562 - UPAL â UniÃ£o Panificadora da Amadora Limitada
+221;504746383 - Amadora Inovation, E. M., Unipessoal, L.da;509117660 - Exitus, SoluÃ§Ãµes TecnolÃ³gicas, Lda.
+222;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;500438986 - GRAFICA MAIADOURO, S.A
+223;504300156 - CiÃªncia Viva - AgÃªncia Nacional para a Cultura CientÃ­fica e TecnolÃ³gica;501593128 - ONDA GRAFE - ARTES GRÃFICAS, LDA
+224;510836054 - UniÃ£o das Freguesias de Charneca de Caparica e Sobreda;RGPD - AntÃ³nio Jose F. B. Beja
+225;AquisiÃ§Ã£o de serviÃ§os | ConcessÃ£o de serviÃ§os pÃºblicos;Concurso pÃºblico
+226;"ColaboraÃ§Ã£o na Ã¡rea financeira ao nÃ­vel da elaboraÃ§Ã£o, execuÃ§Ã£o e gestÃ£o orÃ§amental;";
+227;Apoio na elaboraÃ§Ã£o da proposta anual de ;510856861 - Freguesia de Avenidas Novas
+228;505335018 - MunicÃ­pio de Vila Nova de Gaia;507593812 - Vox Angelis
+229;501413197 - Centro Desportivo da Universidade do Porto (CDUP);RGPD - Marta Sofia Maia da Costa
+230;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;501929797 - Torrestir - Trans. Nacionais e Internacionais
+231;501091823 - CÃ¢mara Municipal de Felgueiras;508920450 - TAMEGAPRESS - ComunicaÃ§Ã£o e MultimÃ©dia Lda
+232;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, EPE;510726941 - BIOTRONIK PORTUGAL UNIPESSOAL LDA
+233;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, EPE;504223933 - MEDTRONIC PORTUGAL, LDA
+234;501559094 - UNL - Instituto Superior de EstatÃ­stica e GestÃ£o de InformaÃ§Ã£o - Information Management School (NOVA IMS);503842770 - VWR Internacional â Material de LaboratÃ³rio, Lda.
+235;510361242 - INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J;513725164 - IMOLEGIS II - GESTÃO DE PATRIMÃNIO E CONSULTORIA FINANCEIRA, UNIPESSOAL LDA.
+236;502327669 - CooptÃ©cnica - Gustave Eiffel, Cooperativa de Ensino e FormaÃ§Ã£o TÃ©cnico Profissional, C. R. L.;500574880 - Jotelar - Equipamentos de Hotelaria, Lda
+237;501306099 - MunicÃ­pio do Porto;RGPD - MARIA MARGARIDA DE JESUS MEDEIROS PEREIRA
+238;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;513542434 - IACESS, Lda.
+239;680033629 - ServiÃ§os Municipalizados de Setubal;515618551 - Oportuno e Imediato, Lda.
+240;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;503197840 - QUANTUM
+241;500122237 - FundaÃ§Ã£o INATEL;511089449 - DUNAS VIAGENS TURISMO, LDA
+242;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, EPE;504180746 - ABBOTT MEDICAL PORT. DIST. PROD.MED.
+243;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;503197149 - OFTALTEC
+244;501621288 - Faculdade de Motricidade Humana;514327960 - LCG BUSINESS SUPPORT SERVICES LDA., 
+245;Empreitadas de obras pÃºblicas | LocaÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+246;500745471 - Santa Casa da MisericÃ³rdia de Lisboa;502262184 - TEPREL - EQUIP. MEDICOS, SA
+247;513606084 - Ãguas do Norte, S. A.;513718737 - 4ENERGY - ComÃ©rcio e InstalaÃ§Ãµes TÃ©cnicas, Lda.
+248;500051062 - MunicÃ­pio de Sintra;509741169 - SOUNDS GREAT, LDA.
+249;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;503262897 - Mech - Consultores, Arquitetura e Engenharia, Lda.
+250;501507930 - Instituto Superior TÃ©cnico;507790480 - Linhas Imaginarias, Lda.
+251;501138960 - MunicÃ­pio de Valongo;508880904 - CabeÃ§as no Ar e PÃ©s na Terra - AssociaÃ§Ã£o Cultural
+252;AquisiÃ§Ã£o de bens mÃ³veis;ContrataÃ§Ã£o excluÃ­da II
+253;AquisiÃ§Ã£o de bens mÃ³veis | Sociedade;Ajuste Direto Regime Geral
+254;600079732 - Agrupamento de Escolas Conde de Oeiras, Oeiras;508405670 - PLI ComÃ©rcio de Artigos de Higiene e Limpeza Lda.
+255;Unidades;
+256;14000;
+257;2100;
+258;8500;
+259;5600;
+260;600074633 - Agrupamento de Escolas de Aveiro;501681469 - Padaria das 5 Bicas
+261;511239440 - MunicÃ­pio de Machico;502413603 - PH InformÃ¡tica e Micro Sistemas SA.
+262;AquisiÃ§Ã£o de serviÃ§os | Sociedade;ContrataÃ§Ã£o excluÃ­da II
+263;509821197 - Unidade Local de SaÃºde de SÃ£o JoÃ£o, E. P. E.;501509860 - DAIICHI SANKYO PORTUGAL UNIPESSOAL, LDA.
+264;504537784 - BRAGAHABIT - Empresa Municipal de HabitaÃ§Ã£o de Braga, E. M.;515522040 - LOOP CIRCULAR, LDA.
+265;AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis | Sociedade;Ajuste Direto Regime Geral
+266;504755412 - Escola Profissional de Viticultura e Enologia da Beira Litoral;503960772 - LASERNET - COMPUTADORES SERVICOS E MANUTENCAO LDA
+267;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;508740975 - Addaptcreative, Lda
+268;510833004 - Freguesia de Caia, SÃ£o Pedro e AlcÃ¡Ã§ova;513847588 - Companhia Portuguesa ComÃ©rcio Produtos CombustÃ­veis S.A,
+269;501138960 - MunicÃ­pio de Valongo;502006994 - Safetykleen Portugal-solventes, GestÃ£o Residuos Sa
+270;511239440 - MunicÃ­pio de Machico;504615947 - MEO â ServiÃ§os de ComunicaÃ§Ãµes e MultimÃ©dia, S.A.
+271;507073266 - Freguesia de Malcata;503433934 - M.T.A. - Comercio de maquinas, tractores e automoveis, Lda
+272;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);516149423 - Pedro J R Lucas, Unipessoal Lda
+273;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);505526174 - OLIBREJOS, LDA.
+274;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);504665367 - TROFINOX - INDUSTRIA METALOMECÃ¢NICA, LDA
+275;500122237 - FundaÃ§Ã£o INATEL;RGPD - Collete Pereira Silva
+276;508882079 - Freguesia de Cacia;RGPD - PEDRO MIGUEL PEREIRA MARQUES VILAR
+277;501063986 - Santa Casa da MisericÃ³rdia de Vale de Cambra;502203269 - ConstruÃ§Ãµes Fernando Soares Ferreira, SA
+278;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;503067890 - Labinox - Equipamentos e AssistÃªncia TÃ©cnica, Lda
+279;AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via
+280;ConcessÃ£o de obras pÃºblicas | Empreitadas de obras pÃºblicas;Ajuste Direto Regime Geral
+281;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;RGPD - SANDRA AMARAL MONTEIRO
+282;506362299 - Instituto PortuguÃªs de Oncologia do Porto Francisco Gentil, E. P. E.;501506543 - B BRAUN MEDICAL LDA
+283;AquisiÃ§Ã£o de bens mÃ³veis | LocaÃ§Ã£o de bens mÃ³veis;Ajuste Direto Regime Geral
+284;508977495 - InovCluster - AssociaÃ§Ã£o do Cluster Agro-Industrial do Centro;515410462 - AssociaÃ§Ã£o Colab4Food - LaboratÃ³rio Colaborativo para a InovaÃ§Ã£o da IndÃºstria Agroalimentar
+285;501222634 - MunicÃ­pio de Caldas da Rainha;RGPD - FÃ¡bio HilÃ¡rio Santos
+286;500867640 - Santa Casa da Misericordia do FundÃ£o;514455241 - Conway, Lda
+287;600052737 - ServiÃ§os de AÃ§Ã£o Social do Instituto PolitÃ©cnico de Coimbra;508617235 - SPECPT- Soc. Equip. Controlo Unip., Lda.
+288;600072525 - DireÃ§Ã£o-Geral da AdministraÃ§Ã£o da JustiÃ§a;502353740 - SCHINDLER ASCENSORES E ESCADAS ROLANTES, S.A.
+289;501510184 - Iscte - Instituto UniversitÃ¡rio de Lisboa;017-36-7441 - Frederick C. Turner, Jr.
+290;AquisiÃ§Ã£o de serviÃ§os | ConcessÃ£o de obras pÃºblicas | ConcessÃ£o de serviÃ§os pÃºblicos;Ajuste Direto Regime Geral
+291;506855368 - MunicÃ­pio de MortÃ¡gua;505477882 - Deltagel- Produtos Alimentares, S.A.
+292;505335018 - MunicÃ­pio de Vila Nova de Gaia;501220496 - Construtora da Huila - IrmÃ£os Neves L.da
+293;505586401 - Municipio de Porto de MÃ³s;500613982 - Comumspace, Lda
+294;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;502496452 - Desconta - Desenho, Contabilidade e ServiÃ§os, Lda
+295;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;510311105 - Lusoimpress Offset e Digital, LdÂª
+296;503509051 - AssociaÃ§Ã£o para o Desenvolvimento do TorrÃ£o;"514919906 - Condados &amp; Mordomias, Unipessoal Lda"
+297;502465905 - ConvergÃªncia - Formadores Associados, L.da;"516128450 - Vera Pinto &amp; EugÃ©nio Borges Lda"
+298;501442600 - Instituto do Emprego e FormaÃ§Ã£o Profissional, IP;502151145 - IST - Cooperativa Polivalente de Ensino
+299;501442600 - Instituto do Emprego e FormaÃ§Ã£o Profissional, IP;514789824 - BECAME EXTRAORDINARY UNIPESSOAL, LDA
+300;510837565 - UniÃ£o das Freguesias de Loivos da Ribeira e Tresouras;RGPD - Telma ClÃ¡udia LourenÃ§o Macedo
+301;510838626 - UniÃ£o das Freguesias de Pedreira, Rande e Sernande;RGPD - Maria Alice Martins Dias
+302;502091835 - AssociaÃ§Ã£o In Loco de IntervenÃ§Ã£o, FormaÃ§Ã£o e Estudos para o Desenvolvimento Local;502957654 - Polo Sul InformÃ¡tica Lda
+303;507104676 - Freguesia de Joane;RGPD - MÃ³nica Emanuela Lobo GonÃ§alves 
+304;511060408 - AgÃªncia Regional para o Desenvolvimento da InvestigaÃ§Ã£o, Tecnologia e InovaÃ§Ã£o - AssociaÃ§Ã£o;508270332 - EMVIAGEM, SA
+305;600081770 - Agrupamento de Escolas AntÃ³nio Rodrigues Sampaio, Esposende;RGPD - AntÃ³nio Fernando BrÃ¡s Marques
+306;600081770 - Agrupamento de Escolas AntÃ³nio Rodrigues Sampaio, Esposende;501064206 - Cooperativa AgrÃ­cola de Esposende C.R.L.
+307;501102752 - MunicÃ­pio de Amarante;508038197 - Diferentes Ritmos Produtores Associados de EspectÃ¡culos e Eventos Lda
+308;513606084 - Ãguas do Norte, S. A.;503431397 - Acciona Facility Services, SA
+309;Outros;Ajuste Direto Regime Geral
+310;504534440 - Soenprol - Sociedade de Ensino Profissional, L.da;"513867740 - Carlos GonÃ§alves &amp; Filho, Lda"
+311;504534440 - Soenprol - Sociedade de Ensino Profissional, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+312;504695037 - SODENFOR - Sociedade Difusora de Ensino da Figueira da Foz, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+313;508894034 - E. T. P. M. M. - Escola TÃ©cnica e Profissional MarquÃªs de Marialva, S. A.;"513867740 - Carlos GonÃ§alves &amp; Filho, Lda"
+314;508894034 - E. T. P. M. M. - Escola TÃ©cnica e Profissional MarquÃªs de Marialva, S. A.;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+315;509521584 - NazarÃ© Forma - Ensino, FormaÃ§Ã£o e CertificaÃ§Ã£o Profissional, L.da;500271518 - Sogenave, S.A. 
+316;509521584 - NazarÃ© Forma - Ensino, FormaÃ§Ã£o e CertificaÃ§Ã£o Profissional, L.da;500087210 - PORTRAL - COMÃRCIO E INDÃSTRIA DE CARNES, LDA.
+317;505506149 - ETPR - Escola TÃ©cnica e Profissional do Ribatejo, S. A.;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+318;504547313 - Escola Profissional da Mealhada, L.da;500087210 - PORTRAL - COMÃRCIO E INDÃSTRIA DE CARNES, LDA.
+319;504547313 - Escola Profissional da Mealhada, L.da;500271518 - Sogenave, S.A. 
+320;504547313 - Escola Profissional da Mealhada, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+321;504503219 - ProSena - Empresa Promotora de ServiÃ§os de Ensino, S. A.;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+322;508779200 - Comunidade Intermunicipal do Douro;507496825 - AVENIDA DOS ALIADOS - SOCIEDADE DE COMUNICAÃÃO, S.A.
+323;501305912 - CÃ¢mara Municipal de Matosinhos;502544180 - VODAFONE PORTUGAL - ComunicaÃ§Ãµes Pessoais, S.A.
+324;505187531 - MunicÃ­pio de Cascais;506998959 - Viamapa SA
+325;502840579 - Ordem dos MÃ©dicos Dentistas;RGPD - MANUEL JORGE DE JESUS DA CUNHA MARMELO
+326;600081966 - Pessoas 2030;508991579 - SOLIDNETWORKS - BUSINESS CONSULTING, LDA
+327;505187531 - MunicÃ­pio de Cascais;509938493 - VPRINT - ProduÃ§Ã£o e Imagem, Lda
+328;KG;106
+329;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;505455110 - AntÃ³nio Serra Silva, Lda
+330;KG;40
+331;DÃZIA;200
+332;DÃZIA;60
+333;KG;90
+334;501143530 - MunicÃ­pio de Castelo Branco;514091410 - ACT CERTIFICA - CERTIFICAÃÃO DE PRODUTOS ARTESANAIS, LDA
+335;502549254 - ComissÃ£o do Mercado de Valores MobiliÃ¡rios;504729624 - Syone SA
+336;505265800 - Vallis Habita, EM;505120054 - MÃ¡rio Fernando Oliveira Moreira, Lda
+337;01/22/2024;01/17/2024
+338;510361242 - INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J;503888460 - TABIQUE ENGENHARIA, LDA.
+339;600083560 - Agrupamento de Escolas de Fazendas de Almeirim, Almeirim;501476180 - Aviludo - Industria e ComÃ©rcio de Produtos Alimentares, SA
+340;510836160 - UniÃ£o das Freguesias de Conde e Gandarela;RGPD - JoÃ£o Fernandes da Silva Vieira
+341;509821197 - Unidade Local de SaÃºde de SÃ£o JoÃ£o, E. P. E.;507007867 - AstriMed - InformÃ¡tica e Tecnologia MÃ©dica, Lda
+342;506970892 - Freguesia de Ronfe;RGPD - Olga Alice Mendes Ferreira Mota
+343;ConcessÃ£o de obras pÃºblicas;Consulta PrÃ©via
+344;600081770 - Agrupamento de Escolas AntÃ³nio Rodrigues Sampaio, Esposende;"500686599 - Salgado &amp; Lopes, Lda"
+345;513606084 - Ãguas do Norte, S. A.;503195758 - CTGA - Centro TecnolÃ³gico de GestÃ£o Ambiental, Lda.
+346;508096707 - Freguesia de Vila Real de Santo AntÃ³nio;RGPD - Maria SalomÃ© Feliciano da Silva
+347;502173297 - MunicÃ­pio de PaÃ§os de Ferreira;507663659 - Quiosque Anselmo's, Unipessoal, Lda.
+348;504731475 - EsproMinho - Escola Profissional do Minho, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+349;509521584 - NazarÃ© Forma - Ensino, FormaÃ§Ã£o e CertificaÃ§Ã£o Profissional, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+350;505187531 - MunicÃ­pio de Cascais;508047684 - FIRST HELP - PRIMEIROS SOCORROS, LDA
+351;502383887 - Escola Evaristo Nogueira, L.da;502216425 - CAXAMAR - COMERCIO E INDUSTRIA DE BACALHAU S A
+352;506697320 - Municipio de Viseu;508928028 - Bior, Lda.
+353;508779200 - Comunidade Intermunicipal do Douro;509410570 - GABBA, UNIPESSOAL, LDA
+354;503606251 - Instituto PolitÃ©cnico do Porto;503842770 - VWR Internacional â Material de LaboratÃ³rio, Lda.
+355;502011378 - Universidade do Minho;980430526 - Medical Simulator, S.L
+356;504777114 - FORPRO - FormaÃ§Ã£o Profissional, C. R. L.;501853480 - Telag - TÃ©cnicas ElectromecÃ¢nicas, Lda.
+357;506415082 - MunicÃ­pio de Coimbra;503057703 - Passe Partout - Viagens e Turismo, Lda
+358;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;500120501 - Sanestradas, S.A
+359;505932512 - MunicÃ­pio de Aljezur;509363180 - Exinov - Sociedade Unipessoal, Lda.
+360;512028273 - ServiÃ§o Regional de ProtecÃ§Ã£o Civil e de Bombeiros dos AÃ§ores;500442487 - INASI, Comercio e Industria de Maquinas e Viaturas Lda
+361;ServiÃ§o;600018466 - Conselho Superior da Magistratura
+362;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;502629703 - LABLAD, LDA
+363;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;"502510595 - IlÃ­dio Ramos &amp; Ramos Lda "
+364;503606251 - Instituto PolitÃ©cnico do Porto;500357129 - General Electric Healthcare Portugal, Soc Unip Lda
+365;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, E. P. E.;503789372 - Staples Portugal - Equipamento de EscritÃ³rio, S.A.
+366;LocaÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via Simplificada
+367;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;502367644 - ORTOPEDIA UNIVERSAL, LDA
+368;600070298 - Agrupamento de Escolas GonÃ§alo Nunes, Barcelos;508792886 - Inforarios Lda 
+369;506608972 - MunicÃ­pio de Torres Novas;"500023727 - ANTÃNIO EMÃLIO GOES &amp; FILHOS LDA."
+370;511239440 - MunicÃ­pio de Machico;500035679 - C.Santos VP, SA
+371;506625419 - MunicÃ­pio de Almeida;515134465 - Aquavalor - LaboratÃ³rio de CaracterizaÃ§Ã£o de Ãguas (LCA) - AssociaÃ§Ã£o
+372;505941350 - MunicÃ­pio de SantarÃ©m;516240242 - RODOLEZIRIA-Transportes RodoviÃ¡rios de Passageiros, Unipessoal Lda
+373;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;513100369 - Delta Force - SeguranÃ§a Privada, Unipessoal Lda 
+374;506833232 - MunicÃ­pio de Arganil;500538255 - ViajaÃ§or 
+375;600021610 - Estado-Maior do ExÃ©rcito;500334811 - CONTINENTAL INVESTIMENTOS IMOBILARIOS SA
+376;511239440 - MunicÃ­pio de Machico;509132316 - Saber Vanguardista, Lda.
+377;505037700 - Domus Social, EM;506378527 - Nortejuvil - Sociedade de ConstruÃ§Ãµes, S. A.
+378;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;503112453 - Danigurte
+379;600085082 - Agrupamento de Escolas Morgado de Mateus, Vila Real;510345107 - HELENO E CORREIA-TRANSPORTES RODOVIARIO DE PASSAGEIROS,LDA
+380;600084817 - DireÃ§Ã£o-Geral da AdministraÃ§Ã£o Escolar;505267772 - Logicalis Portugal, SA
+381;506697320 - Municipio de Viseu;504459201 - Proglobal - ComÃ©rcio de Produtos Licenciados, Lda
+382;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;508657911 - Casvian - ProduÃ§Ã£o e ComÃ©rcio de AcessÃ³rios para FluÃ­dos, Lda.
+383;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;"500384436 - Mendes &amp; IrmÃ£os, S.A"
+384;508786193 - Unidade Local de SaÃºde do Alto Minho, E. P. E.;508107997 - Generis Farmaceutica SA
+385;501275380 - MunicÃ­pio de Condeixa-a-Nova;502611057 - Interlimpe- Facility Services S.A
+386;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;507364457 - EMB - Equipamentos MÃ©dico BiolÃ³gicos, Lda.
+387;500122237 - FundaÃ§Ã£o INATEL;501913769 - PINKPLATE IMPRESSÃO, S.A.
+388;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;RGPD - Roman Glukh
+389;506613461 - MunicÃ­pio de Vila ViÃ§osa;508554764 - Nuno Ribeiro Lopes, Arquitectos, Lda
+390;506818837 - MunicÃ­pio de Silves;"500384436 - Mendes &amp; IrmÃ£os, S.A"
+391;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;503460656 - Gasfomento, S.A.
+392;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;501344608 - MICOTEC â ELECTRÃNICA, LDA.
+393;502605367 - Terras Dentro - AssociaÃ§Ã£o para o Desenvolvimento Integrado;507072065 - INTERPREV - SEGURANÃA E SAÃDE DO TRABALHO, S.A.
+394;501280740 - MunicÃ­pio de OurÃ©m;513427830 - BYAR, Lda
+395;AquisiÃ§Ã£o de bens mÃ³veis | LocaÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+396;505309939 - MunicÃ­pio de PortimÃ£o;514641380 - CCR â Sociedade de Advogados, SP, RL
+397;508184258 - iRN - Instituto dos Registos e Notariado;501219765 - Great - Assessoria TÃ©cnica, Lda.
+398;508481287 - Centro Hospitalar UniversitÃ¡rio de Lisboa Norte, EPE;504988964 - BOSTON SCIENTIFIC PORTUGAL, LDA
+399;ConcessÃ£o de obras pÃºblicas;Ajuste Direto Regime Geral
+400;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;506517080 - HEMICARE - COMÃRCIO E REPRESENTAÃÃES DE MATERIAL E EQUIPAMENTOS MÃDICOS, LDA.
+401;511239440 - MunicÃ­pio de Machico;509976255 - Lobelia do Sol, Lda
+402;502098139 - MunicÃ­pio de LoulÃ©;517683040 - SEGMENTO ABRANGENTE â UNIPESSOAL, LDA.
+403;503730947 - BRAVAL - ValorizaÃ§Ã£o e Tratamento de ResÃ­duos SÃ³lidos, S. A.;504374176 - JumplÃ¡s - Industria e ComÃ©rcio de PlÃ¡sticos, Sociedade Unipessoal, Lda.
+404;506625419 - MunicÃ­pio de Almeida;501445226 - TK Elevadores Portugal, Unipessoal, Lda.
+405;504807706 - IB - AgÃªncia para a DinamizaÃ§Ã£o EconÃ³mica, E. M.;"504046799 - CCA Law Firm - Cruz, Salinas, Mayer &amp; Associados, RL"
+406;501272968 - MunicÃ­pio de Elvas;"515863734 - Ferreira &amp; Catarro - Engenharia e Arquitectura, Lda"
+407;510840515 - UniÃ£o das Freguesias de Tondela e Nandufe;RGPD - Paulo Jorge da Silva Rodrigues
+408;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;506658066 - Medical Plus
+409;500792887 - Imprensa Nacional - Casa da Moeda, S. A.;517162830 - Koshift, Sociedade Unipessoal Lda 
+410;600081966 - Pessoas 2030;600055639 - Centro de GestÃ£o da Rede InformÃ¡tica do Governo - CEGER
+411;600086968 - Instituto das Florestas e ConservaÃ§Ã£o da natureza, IP-RAM;517322846 - TREEFOR Engenharia Unipessoal Lda.
+412;504807706 - IB - AgÃªncia para a DinamizaÃ§Ã£o EconÃ³mica, E. M.;504443135 - Empresa DiÃ¡rio do Minho, Lda.
+413;AquisiÃ§Ã£o de serviÃ§os | Empreitadas de obras pÃºblicas;Concurso pÃºblico
+414;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;502659726 - Francisco Laia Nunes, Lda
+415;Morada;PC
+416;Rua 1Âº Visconde;504688880 - AEVA - AssociaÃ§Ã£o para a EducaÃ§Ã£o e ValorizaÃ§Ã£o da RegiÃ£o de Aveiro
+417;500225680 - RÃ¡dio e TelevisÃ£o de Portugal, SA;502980826 - PDMFC - Projectos De Desenvolvimento ManutenÃ§Ã£o FormaÃ§Ã£o e Consultadoria S.A
+418;600086968 - Instituto das Florestas e ConservaÃ§Ã£o da natureza, IP-RAM;515100021 - OCEANING - Engenheiros Consultores, Lda.
+419;508887780 - Comunidade Intermunicipal do Ave;"503009482 - Abreu &amp; Associados - Sociedade de Advogados Rl,"
+420;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);507587510 - Geogradus Topografia Estudos e Projectos Unipessoal Lda.
+421;901148644 - AgÃªncia Nacional para a GestÃ£o do Programa Erasmus+ EducaÃ§Ã£o e FormaÃ§Ã£o;RGPD - Raquel Filipa Reis Batalha
+422;KG;36
+423;LATA;30
+424;LATA;50
+425;UNI;1600
+426;UNI;30
+427;CX;2
+428;LT;2
+429;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os;Consulta PrÃ©via Simplificada
+430;510836151 - UniÃ£o das Freguesias de ConceiÃ§Ã£o e Estoi;502386096 - Auto Campina, Lda.
+431;01/19/2024;01/19/2024
+432;AquisiÃ§Ã£o de serviÃ§os | Empreitadas de obras pÃºblicas;Consulta PrÃ©via
+433;510836984 - UniÃ£o das Freguesias de Freixial e Juncal do Campo;RGPD - Filipe de Almeida Soares
+434;505265800 - Vallis Habita, EM;"502976357 - Anjos &amp; Associados - SROC, Lda."
+435;504746383 - Amadora Inovation, E. M., Unipessoal, L.da;505275970 - BDO Consulting, Lda
+436;600015467 - Secretaria-Geral do MinistÃ©rio da EducaÃ§Ã£o e CiÃªncia;500682127 - KYOCERA, Document Solutions Portugal Lda 
+437;505187531 - MunicÃ­pio de Cascais;504615947 - MEO â ServiÃ§os de ComunicaÃ§Ãµes e MultimÃ©dia, S.A.
+438;504646796 - AssociaÃ§Ã£o Portuguesa de Pais e Amigos do CidadÃ£o Deficiente Mental da Marinha Grande;503504564 - EDP Comercial-ComercializaÃ§Ã£o de Energia, S.A.
+439;AquisiÃ§Ã£o de bens mÃ³veis | LocaÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via
+440;"IdentificaÃ§Ã£o e mobilizaÃ§Ã£o de parceiros estratÃ©gicos e dos agentes locais, em articulaÃ§Ã£o com a ADXTUR;";
+441;Organiz;507925270 - ADXTUR - AgÃªncia para o Desenvolvimento TurÃ­stico das Aldeias do Xisto
+442;506625419 - MunicÃ­pio de Almeida;513488235 - Hugo Moreira, Unipessoal, Lda.
+443;Outros;Setores especiais â isenÃ§Ã£o parte II
+444;Quantidade Prevista;
+445;147;
+446;504688880 - AEVA - AssociaÃ§Ã£o para a EducaÃ§Ã£o e ValorizaÃ§Ã£o da RegiÃ£o de Aveiro;504904493 - RIS 2048 - Sistemas InformÃ¡ticos e ComunicaÃ§Ãµes, S.A.
+447;501306099 - MunicÃ­pio do Porto;507492463 - NEUTRALIZAR UNIPESSOAL LDA
+448;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;504223933 - MEDTRONIC PORTUGAL, LDA
+449;512105413 - AgÃªncia para a ModernizaÃ§Ã£o Administrativa e Qualidade do ServiÃ§o ao CidadÃ£o, I. P. - RIAC;505350173 - Vision Box - SoluÃ§Ãµes de VisÃ£o por Computador, S.A.
+450;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;500199906 - Mundinter, SA
+451;501816267 - AMC - Vouga AssociaÃ§Ã£o de MunicÃ­pios do Carvoeiro - Vouga;509021050 - FASE - Estudos e Propjectos, S.A.
+452;505037700 - Domus Social, EM;514366060 - IBERMOINHOS LDA
+453;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;501251685 - Alcon Portugal - Produtos e Equipamentos OftalmolÃ³gicos, Lda.
+454;508771935 - Comunidade Intermunicipal da RegiÃ£o de Aveiro;RGPD - David Deveza Pereira
+455;501559094 - UNL - Instituto Superior de EstatÃ­stica e GestÃ£o de InformaÃ§Ã£o - Information Management School (NOVA IMS);B85765766 - EBSCO Information Services S.L
+456;500122270 - FundaÃ§Ã£o Raquel e Martin Sain;500069824 - Otis Elevadores Lda
+457;671000527 - Secretaria Regional do Turismo e Cultura;510372554 - Deltasom II - MultimÃ©dia, Lda
+458;501097643 - AssociaÃ§Ã£o Promotora de Emprego de Deficientes Visuais;"510788750 - CCFS - Clean &amp; Care Unipessoal Lda."
+459;510836518 - UniÃ£o das Freguesias de Ermelo e Pardelhas;510977936 - Hilaugeva - Engenharia e ConstruÃ§Ã£o Civil, Unipessoal Lda
+460;506901173 - MunicÃ­pio de Braga;502641878 - VPDOIS, VESTUÃRIO PROFISSIONAL DE PROTECÃÃO, LDA
+461;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;510584993 - Frueat, Produtos Alimentares Lda. 
+462;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis;Consulta PrÃ©via
+463;503093742 - AdP - Ãguas de Portugal, SGPS, S.A;503731765 - APCER - AssociaÃ§Ã£o Portuguesa de CertificaÃ§Ã£o
+464;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;502380543 - BIOPORTUGAL
+465;511239440 - MunicÃ­pio de Machico;510449042 - AUTO CHAGAS DE PAULO CHAGAS, LDA
+466;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;500013810 - ALBINO DIAS ANDRADE, LDA
+467;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;505792362 - Overpharma, Lda
+468;510103448 - Centro Hospitalar e UniversitÃ¡rio de Coimbra, E. P. E.;503842770 - VWR Internacional â Material de LaboratÃ³rio, Lda.
+469;600075087 - Agrupamento de Escolas JosÃ© Sanches e S. Vicente da Beira;509381448 - Papetarget, S.A.
+470;501305912 - CÃ¢mara Municipal de Matosinhos;514593946 - Fit Studio Arm, Unipessoal Lda 
+471;680026010 - Teatro JosÃ© LÃºcio da Silva;507921135 - Musicalmente Unipessoal, Lda
+472;503135593 - AdministraÃ§Ã£o Regional de SaÃºde do Norte, I. P.;500063524 - NOVARTIS FARMA - Produtos FarmacÃªuticos, SA.
+473;508180457 - OPART - Organismo de ProduÃ§Ã£o ArtÃ­stica, E. P. E.;503886769 - HIPNOSE - PROD. ARTISTICAS, LDA
+474;Empreitadas de obras pÃºblicas;Ao abrigo de acordo-quadro (art.Âº 259.Âº)
+475;504505890 - Petroensino- Ensino e FormaÃ§Ã£o Profissional, L.da;515958999 - VocÃ¡bulos VersÃ¡teis, Unipessoal, Lda
+476;506614913 - MunicÃ­pio de Vila Franca de Xira;RGPD - GIULIA STEFANELLI DE LIMA
+477;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;502462043 - DECOTIRSO - DecoraÃ§Ãµes, Ld.Âª
+478;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;509041108 - ViGIE Solutions, Lda
+479;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;503271276 - EQUIPLEVA
+480;508142156 - Unidade Local de SaÃºde de Gaia/Espinho, E. P. E.;501369295 - CME - ConstruÃ§Ã£o e ManutenÃ§Ã£o ElectromecÃ¢nica, S.A.
+481;501143530 - MunicÃ­pio de Castelo Branco;506419576 - Sitio e Lugar, Sociedade de Paisagistas, Lda
+482;680000054 - ServiÃ§os Municipalizados de Ãgua e Saneamento de Sintra;507945662 - maquilotus-comercio de produtos de limpeza lda
+483;506625419 - MunicÃ­pio de Almeida;"503115142 - J.R.L. - JosÃ© Reis Lopes &amp; Filhos Lda"
+484;507718666 - CMPEAE - Empresa de Ãguas e Energia do MunicÃ­pio do Porto, E. M.;514450177 - Blanc Futura, Unipessoal, Lda
+485;506829197 - MunicÃ­pio de Vila Nova de Foz CÃ´a;501884955 - NRV - Consultores de Engenharia, S.A.
+486;506907619 - MunicÃ­pio de Terras de Bouro;"514878053 - ANTÃNIO FERNANDES, MARTA MARTINS &amp; ASSOCIADOS, SROC, LDA"
+487;503309265 - AssociaÃ§Ã£o Comercial e Industrial de Ponte de Sor;509244181 - COMPETÃNCIAS - FormaÃ§Ã£o Profissional e Desenvolvimento de ExcelÃªncia
+488;501155350 - ConfederaÃ§Ã£o dos Agricultores de Portugal;501061126 - Top AtlÃ¢ntico Viagens e Turismo, SA
+489;508184258 - iRN - Instituto dos Registos e Notariado;506619290 - INTEGRATOR - Tecnologias de InformaÃ§Ã£o, SA
+490;a serra das talhadas, no concelho de ProenÃ§a-a-Nova Ã© um dos locais emblemÃ¡ticos do Geopark Naturtejo. Para alÃ©m do seu patrimÃ³nio histÃ³rico natural, o local estÃ¡ dotado de uma m;506836860 - Naturtejo Empresa de Turismo, E. I. M.
+491;506810496 - Freguesia de Campolide;503526568 - Fresoft- SoluÃ§Ãµes InformÃ¡ticas, Lda
+492;901148644 - AgÃªncia Nacional para a GestÃ£o do Programa Erasmus+ EducaÃ§Ã£o e FormaÃ§Ã£o;RGPD - JoÃ£o Pedro Rocha de Abreu Lima RomÃ£o 
+493;507866673 - REN - Rede ElÃ©ctrica Nacional, S. A.;504040847 - EFACEC ENERGIA - MÃQUINAS E EQUIPAMENTOS ELÃCTRICOS S.A.
+494;505387271 - Universidade do Algarve;513071768 - ATOMIC POSITION â UNIPESSOAL, LDA 
+495;501120149 - MUNICÃPIO DO ENTRONCAMENTO;516712810 - DROPS OF EMOTION, UNIPESSOAL, LDA
+496;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);RGPD - PAULO ALEXANDRE MOREIRA DIAS
+497;600082458 - Gabinete de Planeamento, PolÃ­ticas e AdministraÃ§Ã£o Geral;502650230 - VALPI RENT, LDA
+498;504943782 - PIEP AssociaÃ§Ã£o PÃ³lo de InovaÃ§Ã£o em Engenharia de PolÃ­meros;509880509 - NORLEQ - EQUIPAMENTOS E SERVIÃOS, LDA
+499;500965099 - Ordem dos Advogados;509811353 - Xolyd Iberica Lda
+500;510841325 - UniÃ£o das Freguesias de CacÃ©m e SÃ£o Marcos;RGPD - SÃ©rgio Manuel Braz Florentino
+501;510841325 - UniÃ£o das Freguesias de CacÃ©m e SÃ£o Marcos;517049899 - APSM - Sociedade de Advogados, S.P, RL
+502;515173070 - ProChild CoLab Against Poverty and Social Exclusion - Association;503323390 - PSE - Produtos e ServiÃ§os de EstatÃ­stica Lda 
+503;506922227 - Freguesia de MontalvÃ£o;"510018211 - PROGRESSO &amp; SABER, UNIPESSOAL, LIMITADA"
+504;510265600 - Instituto PortuguÃªs do Mar e da Atmosfera, I. P.;506374300 - F.Ribeiro, Lda
+505;501143530 - MunicÃ­pio de Castelo Branco;510783511 - Apijardins, Unipessoal, Lda
+506;504923218 - OET - Ordem dos Engenheiros TÃ©cnicos;RGPD - MARIA ISABEL CORREIA SARAIVA DOS SANTOS
+507;510833454 - Freguesia da Penha de FranÃ§a;RGPD - Carla Alexandra GonÃ§alo Meirinhos
+508;Relativamente aos serviÃ§os de assist;505391180 - APPACDM de Soure
+509;501559094 - UNL - Instituto Superior de EstatÃ­stica e GestÃ£o de InformaÃ§Ã£o - Information Management School (NOVA IMS);"506897133 - GAP - GUEDES, ALVES &amp; PACHECO, LDA "
+510;501306099 - MunicÃ­pio do Porto;516034421 - TIMELESS SIMPLICITY - LDA
+511;506841561 - MunÃ­cipio de Fafe;502406070 - Alcino Ferreira Soares, Lda.
+512;AquisiÃ§Ã£o de bens mÃ³veis | AquisiÃ§Ã£o de serviÃ§os | LocaÃ§Ã£o de bens mÃ³veis;Concurso pÃºblico
+513;600085228 - Agrupamento de Escolas Raul ProenÃ§a, Caldas da Rainha;505911655 - Frutaria Tavares
+514;506684920 - MunicÃ­pio de Carregal do Sal;RGPD - Fernando Manuel LourenÃ§o Dias Crespo
+515;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);510942539 - Just The Best-By Proating Unipessoal, Lda
+516;502077352 - Centro de FormaÃ§Ã£o Profissional da Industria MetalÃºrgica e MetalomecÃ¢nica (CENFIM);503686433 - Redifogo - Material de ProteÃ§Ã£o e SeguranÃ§a Unipessoal, Lda
+517;501294996 - MunicÃ­pio de Loures;RGPD - Jorge Manuel Gomes Camacho
+518;507866673 - REN - Rede ElÃ©ctrica Nacional, S. A.;500031975 - HITACHI ENERGY PORTUGAL, S.A., 
+519;510841325 - UniÃ£o das Freguesias de CacÃ©m e SÃ£o Marcos;515762083 - Praxis SeguranÃ§a S.A.
+520;510841325 - UniÃ£o das Freguesias de CacÃ©m e SÃ£o Marcos;503651770 - Querie - Consultoria InformÃ¡tica, Lda

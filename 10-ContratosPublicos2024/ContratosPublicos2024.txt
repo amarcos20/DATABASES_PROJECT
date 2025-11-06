@@ -1,0 +1,19 @@
+Contratos Públicos em Portugal nos primeiros dois meses de 2024
+Fonte: Governo Português
+
+Campos
+idcontrato
+tipoContrato
+tipoprocedimento
+objectoContrato - descrição do bem ou serviço adquirido
+adjudicante - entidade que compra (cada célula indica o número fiscal e a designação, os quais convém separar)
+adjudicatarios - entidade(s) que vende(m)  (cada célula indica o número fiscal e a designação, os quais convém separar)
+dataPublicacao - data de publicação do contrato na base de dados central de contratos
+dataCelebracaoContrato - data em que se celebra o contrato
+precoContratual - preço
+cpv - vocabulário dos contratos públicos
+prazoExecucao
+localExecucao - Esta coluna contém o país o distrito e o município, que convém separar de forma a eliminar a redundância, de preferência adicionando os respetivos códigos oficiais. Nesta coluna por vezes aparecem valoes múltiplos, que convém separar.
+fundamentacao - justificação formal
+ProcedimentoCentralizado - se o procedimento é centralizado
+DescrAcordoQuadro - se for o caso, qual o acordo quadro que enquadra o contrato.

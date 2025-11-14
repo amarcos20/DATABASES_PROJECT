@@ -12,4 +12,3 @@ def index():
     # TODO
     return render_template('index.html',message='Hello World!')
 
-#jose joaquim menezes 
